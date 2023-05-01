@@ -44,9 +44,9 @@ about why Archipelago uses YAML files and what they're for.
 You can use the [game settings page for Noita](/games/Noita/player-settings) here on the Archipelago website to
 generate a YAML using a graphical interface.
 
-## Poptracker Pack
+## PopTracker Pack
 
-You may optionally use the [Noita Poptracker pack](https://github.com/ScipioWright/Noita-poptracker/releases).
+You may optionally use the [Noita PopTracker pack](https://github.com/ScipioWright/Noita-poptracker/releases).
 
 To use it, download the pack as well as [PopTracker](https://github.com/black-sliver/PopTracker/releases) itself.
 Place the unzipped pack in the `packs` folder. Then, open Poptracker and open the pack.
