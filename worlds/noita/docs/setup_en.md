@@ -35,6 +35,7 @@ Once you start a new run in Noita, you should see "Connected to Archipelago serv
 you do not see this message, ensure that the mod is enabled and installed per the instructions above.
 
 ## Configuring your YAML File
+
 ### What is a YAML and why do I need one?
 You can see the [basic multiworld setup guide](/tutorial/Archipelago/setup/en) here on the Archipelago website to learn
 about why Archipelago uses YAML files and what they're for.
@@ -42,3 +43,14 @@ about why Archipelago uses YAML files and what they're for.
 ### Where do I get a YAML?
 You can use the [game settings page for Noita](/games/Noita/player-settings) here on the Archipelago website to
 generate a YAML using a graphical interface.
+
+## PopTracker Pack
+
+You may optionally use the [Noita PopTracker pack](https://github.com/ScipioWright/Noita-poptracker/releases).
+
+To use it, download the pack as well as [PopTracker](https://github.com/black-sliver/PopTracker/releases) itself.
+Place the unzipped pack in the `packs` folder. Then, open Poptracker and open the pack.
+Click on the "AP" symbol at the top, then enter the desired address, slot name, and password.
+
+And that's all you need for it. It will provide you with a quick reference to see what checks you've done and
+which checks you still have left.
